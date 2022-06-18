@@ -109,7 +109,7 @@ with contextlib.closing(wave.open(filename,'r')) as f:
 					duration = frames / float(rate)
 ```
 
-The other details are available in the code on Gist https://gist.github.com/twobob/e772c3b207fc8cfca5c2e4008aefceb0
+The other details are available in the code on Gist [The Gist]: https://gist.github.com/twobob/e772c3b207fc8cfca5c2e4008aefceb0 "frq.py" [The Gist]   
 
 I shall publish the results of the video analysis, sufficed to say that whilst James does indeed maintain a healthy 200 - 250ish WPM it is the information density and new ideas that make me slow the videos. Not his talking :)
 
