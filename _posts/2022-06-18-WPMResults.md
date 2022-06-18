@@ -2,6 +2,8 @@
 
 Here are the results for the 7 main playlist from James' (Jim's?) Channel
 
+The code on Gist [The Gist]: https://gist.github.com/twobob/e772c3b207fc8cfca5c2e4008aefceb0 "frq.py" [The Gist]  
+
 - M: is Minutes
 - S: is Seconds
 - WPM: Words per minute
