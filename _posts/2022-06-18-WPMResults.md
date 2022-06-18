@@ -20,7 +20,23 @@ Here are the results
 .\9 - Tilemap (Framebuffer) PCB - VGA from Scratch - Part 9 : mins:47 secs:12 total words:3665 words per min:155.9
 ```
 
+#### Audio From Scratch
+
+```
+.\01 - Introduction - Audio from Scratch                     : mins:2  secs:32 total words:55 words per min:55.0
+.\02 - Simple Beep - Audio from Scratch - Part 1             : mins:21 secs:50 total words:1218 words per min:116.0
+.\03 - Interfacing - Audio from Scratch - Part 2             : mins:27 secs:0  total words:1069 words per min:79.1
+.\04 - Midi Data - Audio from Scratch - Part 3               : mins:19 secs:35 total words:1023 words per min:107.7
+.\05 - Volume and ADSR - Audio from Scratch - Part 4         : mins:39 secs:47 total words:1849 words per min:94.8
+.\06 - I_O Synchronization - Audio from Scratch - Part 5     : mins:24 secs:25 total words:1317 words per min:109.7
+.\07 - Polyphonic Sound - Audio from Scratch - Part 6        : mins:16 secs:48 total words:732 words per min:91.5
+.\08 - Output - Audio from Scratch - Part 7                  : mins:15 secs:47 total words:886 words per min:118.2
+.\09 - Synthesizer Channel PCB - Audio from Scratch - Part 8 : mins:34 secs:32 total words:1076 words per min:63.3
+.\10 - New Controller - Audio from Scratch - Part 9          : mins:32 secs:24 total words:2173 words per min:135.8
+```
+
 #### UART From Scratch
+
 ```
 .\1 - Transmit - UART from Scratch - Part 1                 : mins:20 secs:57 total words:2139 words per min:213.9
 .\2 - Receive - UART from Scratch - Part 2                  : mins:15 secs:34 total words:1888 words per min:251.8
@@ -34,6 +50,7 @@ Here are the results
 ```
 
 #### Making an 8 Bit pipelined CPU
+
 ```
 .\001 - Introduction (And Build Time-lapse) - Making an 8 Bit pipelined CPU               : mins:2  secs:22 total words:120 words per min:120.0
 .\002 - Introduction and Clock Build - Making an 8 Bit pipelined CPU - Part 1             : mins:34 secs:53 total words:3133 words per min:184.2
