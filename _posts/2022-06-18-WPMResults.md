@@ -8,7 +8,7 @@ Here are the results
 
 #### Kit Builds
 
-```
+```lisp
 .\1 - ebay Logic Probe Kit           : mins:17 secs:16 total words:964 words per min:113.4
 .\2 - LM317 Kit Build (Speed Run)    : mins:6  secs:41 total words:251 words per min:83.8
 .\3 - MiniAMP kit build              : mins:14 secs:18 total words:482 words per min:68.8
@@ -18,7 +18,7 @@ Here are the results
 
 #### Mailbag
 
-```
+```lisp
 .\01 - Mailbag #1 PCB's and Parts     : mins:12 secs:8  total words:948 words per min:158.0
 .\02 - Mailbag #2 Tiny Stuff          : mins:11 secs:24 total words:773 words per min:140.5
 .\03 - Mailbag #3 Reflow Parts        : mins:13 secs:44 total words:1139 words per min:175.2
@@ -34,7 +34,7 @@ Here are the results
 
 #### VGA From Scratch
 
-```
+```lisp
 .\1 - Introduction - VGA from Scratch - Part 1              : mins:22 secs:52 total words:3360 words per min:305.4
 .\2 - Sync - VGA from Scratch - Part 2                      : mins:31 secs:43 total words:3867 words per min:249.4
 .\3 - Framebuffer - VGA from Scratch - Part 3               : mins:46 secs:35 total words:6437 words per min:279.8
@@ -48,7 +48,7 @@ Here are the results
 
 #### Audio From Scratch
 
-```
+```lisp
 .\01 - Introduction - Audio from Scratch                     : mins:2  secs:32 total words:55 words per min:55.0
 .\02 - Simple Beep - Audio from Scratch - Part 1             : mins:21 secs:50 total words:1218 words per min:116.0
 .\03 - Interfacing - Audio from Scratch - Part 2             : mins:27 secs:0  total words:1069 words per min:79.1
@@ -63,7 +63,7 @@ Here are the results
 
 #### UART From Scratch
 
-```
+```lisp
 .\1 - Transmit - UART from Scratch - Part 1                 : mins:20 secs:57 total words:2139 words per min:213.9
 .\2 - Receive - UART from Scratch - Part 2                  : mins:15 secs:34 total words:1888 words per min:251.8
 .\3 - Interfacing - UART from Scratch - Part 3              : mins:24 secs:24 total words:3236 words per min:269.7
@@ -77,7 +77,7 @@ Here are the results
 
 #### Making an 8 Bit pipelined CPU
 
-```
+```lisp
 .\001 - Introduction (And Build Time-lapse) - Making an 8 Bit pipelined CPU               : mins:2  secs:22 total words:120 words per min:120.0
 .\002 - Introduction and Clock Build - Making an 8 Bit pipelined CPU - Part 1             : mins:34 secs:53 total words:3133 words per min:184.2
 .\003 - Address Registers (1 - Counter _ Storage) - Making an 8 Bit pipelined CPU - Part 2: mins:27 secs:54 total words:2116 words per min:156.7
@@ -117,7 +117,7 @@ Here are the results
 .\037 - 16 Bit Counters (Increment and Decrement)  - Part 36                              : mins:35 secs:35 total words:3385 words per min:193.4
 .\038 - Constant Register (2 - Completion) - Making an 8 Bit pipelined CPU - Part 37      : mins:20 secs:8  total words:1502 words per min:150.2
 .\039 - It all goes wrong! - Making an 8 Bit pipelined CPU - Part 38                      : mins:18 secs:1  total words:1755 words per min:195.0
-.\040 - Troubleshooting (Spoiler - It's Alive!) - Making an 8 Bit pipelined CPU - Part 39 : mins:32 secs:15 total words:2321 words per min:145.0
+.\040 - Troubleshooting (Spoiler - It\'s Alive!) - Making an 8 Bit pipelined CPU - Part 39 : mins:32 secs:15 total words:2321 words per min:145.0
 .\041 - 16 Bit Transfer Bus Control - Making an 8 Bit pipelined CPU - Part 40             : mins:21 secs:46 total words:2155 words per min:205.2
 .\042 - ALU (10 - Control) - Making an 8 Bit pipelined CPU - Part 41                      : mins:26 secs:5  total words:2991 words per min:230.0
 .\043 - ALU (11 - Arithmetic) - Making an 8 Bit pipelined CPU - Part 42                   : mins:17 secs:32 total words:1302 words per min:153.1
