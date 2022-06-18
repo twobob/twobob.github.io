@@ -6,6 +6,32 @@ Here are the results
 
 ### By Playlists
 
+#### Kit Builds
+
+```
+.\1 - ebay Logic Probe Kit           : mins:17 secs:16 total words:964 words per min:113.4
+.\2 - LM317 Kit Build (Speed Run)    : mins:6  secs:41 total words:251 words per min:83.8
+.\3 - MiniAMP kit build              : mins:14 secs:18 total words:482 words per min:68.8
+.\4 - ebay Electronic Dice Kit Build : mins:14 secs:54 total words:947 words per min:135.2
+.\5 - Digital Electronic Clock Kit   : mins:10 secs:37 total words:849 words per min:169.8
+```
+
+#### Mailbag
+
+```
+.\01 - Mailbag #1 PCB's and Parts     : mins:12 secs:8  total words:948 words per min:158.0
+.\02 - Mailbag #2 Tiny Stuff          : mins:11 secs:24 total words:773 words per min:140.5
+.\03 - Mailbag #3 Reflow Parts        : mins:13 secs:44 total words:1139 words per min:175.2
+.\04 - Mailbag #4 Heavy Metal         : mins:12 secs:20 total words:940 words per min:156.6
+.\05 - Mailbag #5 Transfer Parts      : mins:12 secs:22 total words:280 words per min:46.6
+.\06 - Mailbag #6 Optical Bits        : mins:7  secs:53 total words:991 words per min:283.1
+.\07 - Mailbag #7 All the pin headers : mins:9  secs:59 total words:621 words per min:138.1
+.\08 - Mailbag #8 Bridge Building     : mins:8  secs:39 total words:815 words per min:203.7
+.\09 - Mailbag #9 Maker Bingo         : mins:10 secs:3  total words:1079 words per min:215.8
+.\10 - Mailbag #10 Bread N' Chips     : mins:9  secs:7  total words:1282 words per min:284.8
+.\11 - Mailbag #11 Core Bits          : mins:8  secs:30 total words:1137 words per min:284.2
+```
+
 #### VGA From Scratch
 
 ```
