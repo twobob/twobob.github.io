@@ -1,9 +1,10 @@
 ## some python WPM analysis results
 
 Here are the results for the 7 main playlist from James' (Jim's?) Channel
-M: is Minutes
-S: is Seconds
-WPM: Words per minute
+
+- M: is Minutes
+- S: is Seconds
+- WPM: Words per minute
 
 ---
 
