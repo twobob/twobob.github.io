@@ -1,6 +1,6 @@
 ## Doing some python WPM analysis 
 
-Since I generally watch Youtube video at 200% speed I was interested when a certain YouTuber "James Sharman"'s videos caused me to watch at leass than this speed.
+Since I generally watch Youtube video at 200% speed I was interested when a certain YouTuber "James Sharman"'s videos caused me to watch at less than this speed.
 
 He was purely intelligible and not speaking seemingly "fast", could it just be the information density?
 
@@ -81,7 +81,7 @@ def recognize_chunks(chunk):
     
 ```
 
-Once we have the texts of the various files classification is relatively simple
+Once we have the texts of the various files; classification is relatively simple
 
 ```python
 if not path.exists(filename+".distribution.txt"):
@@ -98,8 +98,9 @@ if not path.exists(filename+".distribution.txt"):
 			print(filename, 'skipped')
 ```
 
-and the mean average is obvisouly just the amount of words in total over the duration.
+and the mean average is obvisouly just the amount of words in total over the duration. 
 we can grab the duration like so:
+
 ```python
 
 with contextlib.closing(wave.open(filename,'r')) as f:
@@ -111,6 +112,8 @@ with contextlib.closing(wave.open(filename,'r')) as f:
 The other details are available in the code on Gist https://gist.github.com/twobob/e772c3b207fc8cfca5c2e4008aefceb0
 
 I shall publish the results of the video analysis, sufficed to say that whilst James does indeed maintain a healthy 200 - 250ish WPM it is the information density and new ideas that make me slow the videos. Not his talking :)
+
+excerpt of one playlist:
 
 ```
 .\1 - Introduction - VGA from Scratch - Part 1              : mins:22 secs:52 total words:3360 words per min:305.45454545454544
