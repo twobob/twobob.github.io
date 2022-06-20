@@ -5,6 +5,8 @@ Since I generally watch Youtube video at 200% speed I was interested when a cert
 He was purely intelligible and not speaking seemingly "fast", could it just be the information density?
 
 So I set about writing a (mean average) Words Per Minute app in python to check the numbers. 
+Leveraged GPT3 to do the heavy lifting of finding relevant code libs and examples. 
+Welded as follows.
 
 ---
 
@@ -24,7 +26,7 @@ from pydub.silence import split_on_silence
 import subprocess
 ```
 
-This nets us the ability to slice, load, refactor and ananlyse audio with a variety of tools.
+This nets us the ability to slice, load, refactor and analyse audio with a variety of tools.
 
 #### Google needs it piecemeal
 
@@ -98,7 +100,7 @@ if not path.exists(filename+".distribution.txt"):
 			print(filename, 'skipped')
 ```
 
-and the mean average is obvisouly just the amount of words in total over the duration. 
+and the mean average is obviously just the amount of words in total over the duration. 
 we can grab the duration like so:
 
 ```python
